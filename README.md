@@ -9,11 +9,11 @@
 - You do not have to add any additional HTML code, you just need to add text inside of the existing "h1", "h3" tags and the "src" attributes inside of the "img" tags. 
 
 ## Begin this activity by... ##
-- Having a scrum meeting!
+- Having a scrum meeting! yay!
 
 - Your team should create a project board and then create an issue for EVERY letter. This is repetitive, and is meant to be used as practice. Start your first sprint by prioritizing the first easy items(letters) people have access to, once everyone is done with their letter, close the issues and then move to the next letters.
 
-- Practice branching in your repository by creating a new branch for every letter that you work on. For example if you personally get tasked with letter C, then create a branch called "letterC". Once you finish that letter and are done with the branch, make sure to create a new branch for your next letter. For example, if you are next tasked with letter F your branch would be "letterF".
+- Practice branching in your repository by creating a new branch for every letter that you work on. For example if you personally get tasked with letter C, then create a branch called "letterC". Once you finish  that letter and are done with the branch, make sure to create a new branch for your next letter. For example, if you are next tasked with letter F your branch would be "letterF".
 
 ## Useful commands for creating and moving to branches...
     - `git branch` (shows current local branches)
