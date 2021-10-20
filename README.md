@@ -2,7 +2,7 @@
 
 - In this activity your group is tasked to create the ABC's by taking pictures of various items around you and add them to the index.html file to display them all. 
 
-- These photos should be uploaded to the "photos" folder and then linked using the "src" attribute in the "img" tags in the index.html file. 
+- These photos should be uploaded to the "photos" folder and then linked using the "src" attribute in the "img" tags in the index.html file . 
 
 - Letter A has already been completed, use it as a reference for all other letters you have to complete. 
 
